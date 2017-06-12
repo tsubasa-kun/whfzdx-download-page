@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    background-color: white;
+    font-family: "Hiragino Sans GB","Microsoft YaHei",Arial-normal,"open sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 0;
+    padding: 0;
+}
+body.preventScroll {
+}
+.preventScroll .main__content {
+    height: calc(100vh - 44Px);
+    overflow: hidden;
+}
