@@ -69,7 +69,7 @@
 
     .header-download-text {
         display: block;
-        width: 35%;
+        width: 66%;
         height: auto;
         margin-left: 25%;
         margin-top: 5%;

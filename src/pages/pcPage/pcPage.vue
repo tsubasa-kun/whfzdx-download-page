@@ -50,7 +50,7 @@
 
     .header-download-text {
         position: absolute;
-        width: 12%;
+        width: 22%;
         height: auto;
         bottom: 10%;
         left: 32%;
